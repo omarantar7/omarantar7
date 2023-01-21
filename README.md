@@ -1,4 +1,3 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://user-images.githubusercontent.com/103269368/212939189-039a3960-4bb7-4541-a3fb-5febdd93bae0.mp4)
 <h1 align="center">Hi 👋, I'm Omar Antar</h1>
 <h3 align="center">A passionate frontend developer from Lebanon</h3>
 <img align='right' alt="FrontEnd Dev" width="400px" src="https://raw.githubusercontent.com/DakshJn/DakshJn/master/gifs/coder.gif"/>
