@@ -4,11 +4,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omarantar7&label=Profile%20views&color=0e75b6&style=flat" alt="omarantar7" /> </p>
 
-- 🌱 I’m currently learning **ReactJs**
+- 🌱 I’m currently learning yii2 framework**
 
 - 👀 I’m interested in **Web Development**
 
-- 💬 Ask me about **React,Css & Js**
+- 💬 Ask me about **Vue js,React js, Css, Js, Figma, Php**
 
 - 📫 How to reach me **omarantar520@gmail.com**
 
