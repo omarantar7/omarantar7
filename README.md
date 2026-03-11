@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Omar Antar</h1>
-<h3 align="center">A passionate fullstack JavaScript developer from Lebanon</h3>
-<img align='right' alt="Fullstack Dev" width="400px" src="https://raw.githubusercontent.com/DakshJn/DakshJn/master/gifs/coder.gif"/>
+<h3 align="center">A passionate frontend developer from Lebanon</h3>
+<img align='right' alt="Frontend Dev" width="400px" src="https://raw.githubusercontent.com/DakshJn/DakshJn/master/gifs/coder.gif"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omarantar7&label=Profile%20views&color=0e75b6&style=flat" alt="omarantar7" /> </p>
 
-- 🔭 I'm a **Fullstack JavaScript Developer** building end-to-end web applications
+- 🔭 I'm a **Frontend Developer** with solid knowledge of backend technologies
 - 🌱 I'm currently deepening my knowledge in **Docker, Nginx & backend architecture**
 - 👀 I'm interested in **Web Development & System Design**
-- 💬 Ask me about **Vue.js, Nuxt.js, Node.js, MySQL, SQLite, Drizzle ORM, Docker, Nginx**
+- 💬 Ask me about **Vue.js, Nuxt.js, Pinia, Vuex, MySQL, SQLite, Drizzle ORM, Docker, Nginx**
 - 📫 How to reach me **omarantar520@gmail.com**
 - ⚡ Fact: **I'm patient in facing problems and solving them**
 
@@ -27,7 +27,7 @@
   <a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/></a>
   <a href="https://nuxt.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" alt="nuxtjs" width="40" height="40"/></a>
   <a href="https://pinia.vuejs.org/" target="_blank" rel="noreferrer"><img src="https://pinia.vuejs.org/logo.svg" alt="pinia" width="40" height="40"/></a>
-  <a href="https://vuex.vuejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuex/vuex-original.svg" alt="vuex" width="40" height="40"/></a>
+  <a href="https://vuex.vuejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="vuex" width="40" height="40"/></a>
 </p>
 
 **Backend & Databases**
